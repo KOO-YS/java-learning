@@ -16,7 +16,7 @@ public class ArraySample {
 		
 		int sum = 0;
 		for(int i=0; i<arr.length; i++) {
-			arr[i] = num.nextInt(101);
+			arr[i] = num.nextInt(100)+1;
 			sum += arr[i];
 		}
 		System.out.println("Array 	: "+Arrays.toString(arr));
@@ -29,7 +29,7 @@ public class ArraySample {
 		Random num = new Random();
 		
 		for(int i=0; i<arr.length; i++) {
-			arr[i] = num.nextInt(101);
+			arr[i] = num.nextInt(100)+1;
 		}
 		
 		int min =arr[0], max =arr[0];
@@ -85,5 +85,6 @@ public class ArraySample {
 		}
 		System.out.println("Sum 	: "+sum);
 	}
+
 	
 }
