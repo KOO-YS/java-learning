@@ -85,4 +85,18 @@ public class Sample {
 		}
 		prn(arr);
 	}
+	public void munjae4() {
+		int[][] arr = new int[5][5];
+		int value2 =0;
+		for(int i=0; i<arr.length; i++) {
+//			for(int j=0, value=0; j<arr[i].length; j++,value+=5) {
+//				arr[i][j]=(i+1)+value;
+//			}
+			/* 다른 방식 */
+			for(int j=0; j<arr[i].length; j++) {
+				arr[j][i] = ++value2;
+			}
+		}
+		prn(arr);
+	}
 }
