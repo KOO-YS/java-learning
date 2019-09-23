@@ -1,4 +1,4 @@
-package edu.ch16.io.objectIO.model.vo;
+package edu.ch16.io.fileStream.model.vo;
 
 import java.io.Serializable;
 
