@@ -1,8 +1,8 @@
-package edu.ch14.exception.run;
+package edu.ch15.exception.run;
 
 import java.util.Scanner;
 
-import edu.ch14.exception.customEx.MyException;
+import edu.ch15.exception.customEx.MyException;
 
 
 public class Run3 {

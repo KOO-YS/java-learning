@@ -1,4 +1,4 @@
-package edu.ch14.exception.customEx;
+package edu.ch15.exception.customEx;
 
 public class CustomException extends Exception{
 	public CustomException() {}

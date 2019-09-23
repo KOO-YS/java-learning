@@ -1,8 +1,8 @@
-package edu.ch14.exception.controller;
+package edu.ch15.exception.controller;
 
 import java.util.Scanner;
 
-import edu.ch14.exception.customEx.CustomException;
+import edu.ch15.exception.customEx.CustomException;
 
 
 public class CustomController {

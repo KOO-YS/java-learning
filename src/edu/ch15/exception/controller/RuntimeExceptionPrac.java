@@ -1,4 +1,4 @@
-package edu.ch14.exception.controller;
+package edu.ch15.exception.controller;
 
 import java.util.Scanner;
 

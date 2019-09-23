@@ -1,8 +1,8 @@
-package edu.ch14.exception.run;
+package edu.ch15.exception.run;
 
 
-import edu.ch14.exception.controller.CustomController;
-import edu.ch14.exception.controller.RuntimeExceptionPrac;
+import edu.ch15.exception.controller.CustomController;
+import edu.ch15.exception.controller.RuntimeExceptionPrac;
 
 public class Run {
 	public static void main(String[] args) {
