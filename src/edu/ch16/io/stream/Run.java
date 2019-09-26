@@ -9,7 +9,10 @@ public class Run {
 //		tbs.outputBuffer();
 //		tbs.inputBuffer();
 		TestDataTypeStream tdts = new TestDataTypeStream();
-		tdts.test();
+//		tdts.test();
+		FileIOTest io = new FileIOTest();
+//		io.fileRead();
+		io.fileSave();
 		
 	}
 }
