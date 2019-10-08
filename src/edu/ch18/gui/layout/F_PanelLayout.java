@@ -8,8 +8,8 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-public class TestPanelLayout extends JFrame{
-	public TestPanelLayout() {
+public class F_PanelLayout extends JFrame{
+	public F_PanelLayout() {
 		// Layout 지정없이 원하는 위치에 배치
 		super("nullLayout");
 		

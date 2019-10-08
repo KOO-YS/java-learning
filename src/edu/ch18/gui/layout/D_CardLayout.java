@@ -9,8 +9,8 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-public class TestCardLayout  extends JFrame{
-	public TestCardLayout() {
+public class D_CardLayout  extends JFrame{
+	public D_CardLayout() {
 		super("CardLayout");
 		// CardLayout
 		/* panel을 이용해서 카드판을 겹쳐놓음 

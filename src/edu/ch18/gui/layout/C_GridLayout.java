@@ -8,8 +8,8 @@ import java.util.Set;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-public class TestGridLayout extends JFrame{
-	public TestGridLayout() {
+public class C_GridLayout extends JFrame{
+	public C_GridLayout() {
 		super("GridLayout");
 		this.setBounds(300,200,800,500);
 		// GridLayout

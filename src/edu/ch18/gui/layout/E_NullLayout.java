@@ -5,8 +5,8 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-public class TestNullLayout extends JFrame{
-	public TestNullLayout() {
+public class E_NullLayout extends JFrame{
+	public E_NullLayout() {
 		// Layout 지정없이 원하는 위치에 배치
 		super("nullLayout");
 		

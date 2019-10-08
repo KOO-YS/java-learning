@@ -5,8 +5,8 @@ import java.awt.FlowLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-public class TestFlowLayout extends JFrame{
-	public TestFlowLayout() {
+public class B_FlowLayout extends JFrame{
+	public B_FlowLayout() {
 		super("FlowLayout");
 		
 		this.setBounds(300,200,800,500);

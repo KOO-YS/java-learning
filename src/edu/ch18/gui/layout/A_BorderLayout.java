@@ -5,8 +5,8 @@ import java.awt.BorderLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-public class TestBorderLayout extends JFrame{
-	public TestBorderLayout() {
+public class A_BorderLayout extends JFrame{
+	public A_BorderLayout() {
 		// 부모 생성자(JFrame) 쪽으로 프레임의 이름을 전달하여 설정
 		super("BorderLayout");
 		
